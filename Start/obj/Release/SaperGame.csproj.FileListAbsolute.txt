@@ -1,0 +1,14 @@
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.Properties.Resources.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\bin\Release\Pomoc.pdf
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\bin\Release\SaperGame.exe.config
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\bin\Release\SaperGame.exe
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\bin\Release\SaperGame.pdb
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.exe
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.pdb
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.Saper.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.SettingsBoard.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.Ranking_form.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\SaperGame.Start.resources

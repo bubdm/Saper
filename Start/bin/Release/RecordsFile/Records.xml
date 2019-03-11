@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfRecord xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Record>
+    <nick>dw</nick>
+    <diff>1</diff>
+    <size>1</size>
+    <time>60</time>
+  </Record>
+  <Record>
+    <nick>adw</nick>
+    <diff>1</diff>
+    <size>1</size>
+    <time>35</time>
+  </Record>
+</ArrayOfRecord>

@@ -1,0 +1,49 @@
+C:\Users\Tomek\Desktop\Saper\Saper\Start\bin\Release\Start.exe.config
+C:\Users\Tomek\Desktop\Saper\Saper\Start\bin\Release\Start.exe
+C:\Users\Tomek\Desktop\Saper\Saper\Start\bin\Release\Start.pdb
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.Palansza.resources
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.NowaGra.resources
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.Ranking_form.resources
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.Start.resources
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.csproj.GenerateResource.Cache
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.exe
+C:\Users\Tomek\Desktop\Saper\Saper\Start\obj\Release\Start.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\bin\Release\Start.exe.config
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\bin\Release\Start.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\bin\Release\Start.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.Palansza.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.Properties.Resources.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.NowaGra.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.Ranking_form.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.Start.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Saper\Saper\Start\obj\Release\Start.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\bin\Release\Pomoc.pdf
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\bin\Release\Start.exe.config
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\bin\Release\Start.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\bin\Release\Start.pdb
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.Palansza.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.Properties.Resources.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.NowaGra.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.Ranking_form.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.Start.resources
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.exe
+C:\CODE\C#\WinForms\W REALIZACJI !!!!!!!!!!!\Saper\Start\obj\Release\Start.pdb
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.csprojAssemblyReference.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.Saper.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.Properties.Resources.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.SettingsBoard.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.Ranking_form.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.Start.resources
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.csproj.GenerateResource.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.csproj.CoreCompileInputs.cache
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.exe
+C:\CODE\C#\WinForms\W trakcie realizacji\Saper\Start\obj\Release\Start.pdb
